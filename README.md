@@ -1,4 +1,4 @@
-#Vinícius Amâncio Bueno Pinto - 234960
+# Vinícius Amâncio Bueno Pinto - 234960
 
 # Como executar o projeto PetCare API
 
@@ -94,6 +94,7 @@ spring.datasource.password=postgres
 | Muitos `FAIL` no Postman logo no início | Dados da rodada anterior continuam no banco | Reinicie a API e rode a coleção de novo |
 | Agendamento retorna `400` por data | A data usada já passou (a coleção usa `2030-03-10`) | Use uma data futura nas requisições de agendamento |
 
+# Print dos testes
 
 <img width="1217" height="355" alt="Captura de tela 2026-11-04 203344" src="https://github.com/user-attachments/assets/12b8851f-6810-4158-a238-68619f47d9d0" />
 <img width="1216" height="376" alt="Captura de tela 2026-11-04 203238" src="https://github.com/user-attachments/assets/a6281fca-a9e0-4e01-b17d-f76f5a926f4b" />
@@ -101,3 +102,6 @@ spring.datasource.password=postgres
 <img width="1194" height="578" alt="Captura de tela 2026-11-04 203731" src="https://github.com/user-attachments/assets/155c28ca-cf40-419f-be9c-240f1e42d4da" />
 <img width="1193" height="640" alt="Captura de tela 2026-11-04 203542" src="https://github.com/user-attachments/assets/2b33647e-605c-4729-b9eb-ac6cd2aadba1" />
 <img width="1196" height="733" alt="Captura de tela 2026-11-04 203412" src="https://github.com/user-attachments/assets/cf7ea2d8-9e4c-49e7-9de3-7283d7ba6183" />
+
+# Diagrama UML
+<img width="1974" height="1752" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/9da25542-c5da-4df8-af83-3aae12d1b93a" />
